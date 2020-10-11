@@ -2,15 +2,15 @@
 page_title                                : Monza - Battle Royale                     # Automatically populates with app name if not set and if iOS app ID is set. Otherwise enter manually.
 
 # App Info
-ios_app_id                                : 1234793120                                # Required. Enter iOS app ID to automatically populate name, price and icons (e.g. 718043190).
+ios_app_id                                : #1234793120                                # Required. Enter iOS app ID to automatically populate name, price and icons (e.g. 718043190).
 
 appstore_link                             :                                           # Automatically populates if not set and if iOS app ID is set. Otherwise enter manually.
 playstore_link                            :                                           # Enter Google Play Store URL.
-presskit_download_link                    : https://emilbaehr.com                                          # Enter a link to downloadable file or (e.g. public Dropbox link to a .zip file). 
+presskit_download_link                    : https://emilbaehr.com                     # Enter a link to downloadable file or (e.g. public Dropbox link to a .zip file). 
                                                                                       # Or upload your press kit file to assets and set path accordingly (e.g. "assets/your_press_kit.zip").
 
-app_icon                                  : # assets/appicon.png                      # Automatically populates if not set and if iOS app ID is set.  Otherwise enter path to icon file manually.
-app_name                                  :                                           # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
+app_icon                                  : assets/appicon.png                      # Automatically populates if not set and if iOS app ID is set.  Otherwise enter path to icon file manually.
+app_name                                  : Monza 'Battle Royale'                     # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
 app_price                                 :                                           # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
 app_description                           : Monza 'Battle Royale' - The ultimate addon ruleset for Haba's Monza.
 
@@ -38,20 +38,20 @@ features                                  :
     description                           : The Famous Flying Car! It can fly over Obstacle squares (tires) and land on the opposite side for two free movements!
     fontawesome_icon_name                 : magic
     
-  - title                                 : iPhone Device Preview
-    description                           : Preview your app in the context of an iPhone device. Five different device colors included.
+  - title                                 : The Great Leslie
+    description                           : The Great Racer! He can reroll any 2 dice if not used.
     fontawesome_icon_name                 : mobile
 
-  - title                                 : Video Support
-    description                           : Preview app video on the iPhone device simply by placing your video files in the videos folder.
+  - title                                 : Professor Fate
+    description                           : The Other Great Racer! Can move all players back one space, once per turn.
     fontawesome_icon_name                 : play-circle
 
-  - title                                 : Automatic Icon and Metadata
-    description                           : Enter iOS app ID in the _config.yml file to automatically fetch app icon, price and App Store Link.
+  - title                                 : Herbie
+    description                           : The Love Bug! Can move sideways once per turn.
     fontawesome_icon_name                 : sync
 
-  - title                                 : Easy to Tweak
-    description                           : Tweak accent color, images, icons and transparency via the _config.yml file. No HTML/CSS needed.
+  - title                                 : James Bond
+    description                           : 007. If he rolls 3 dice of the same color, he can move 3 free spaces at the end of his turn. The three dice cannot be used otherwise.
     fontawesome_icon_name                 : adjust
   
   - title                                 : Feature List
