@@ -54,26 +54,25 @@ features                                  :
     description                           : 007. If he rolls 3 dice of the same color, he can move 3 free spaces at the end of his turn. The three dice cannot be used otherwise.
     fontawesome_icon_name                 : adjust
   
-  - title                                 : Feature List
-    description                           : Add features (like this one) to your site via the _config.yml file. No HTML/CSS needed.
+  - title                                 : Thorndyke
+    description                           : Herbies Nemesis! Can switch places with anyone, except first place.
     fontawesome_icon_name                 : star
 
-  - title                                 : Smart App Banner
-    description                           : Display a smart app banner on iOS devices.
+  - title                                 : Marty's Delorean
+    description                           : The Time Travelling Car! When passing through 2 of the same color spaces, can teleport to the next, third one.
     fontawesome_icon_name                 : arrow-alt-circle-down
 
-  - title                                 : Social Links
-    description                           : Easily add social media accounts and contact info in the footer via the _config.yml file. No HTML/CSS needed.
-    fontawesome_icon_name                 : link
+  - title                                 : The Mystery Machine
+    description                           : Scooby Dooby Doo! The last space color landed on becomes a trap, and all other players on that color are moved back two spaces.
+    fontawesome_icon_name                 : shuttle-van
 
-  - title                                 : FontAwesome Support
-    description                           : Pick custom Font Awesome icons for the feature list via the _config.yml file. No HTML/CSS needed.
-    fontawesome_icon_name                 : info-circle
+  - title                                 : Wheels on Meals
+    description                           : Jackie's Foodtruck! Every car it goes directly behind, or in front of, is moved back one space
+    fontawesome_icon_name                 : truck
 
-  - title                                 : # New Feature Title
-    description                           : # New Feature Description
-    fontawesome_icon_name                 : # Enter Font Awesome icon name (e.g. star). Find icons on fontawesome.com/icons.
-
+  - title                                 : Agent Hawk's Mitsubishi
+    description                           : It has a mini-bike inside! If it lands behind another player, he moves ahead 3 spaces.
+    fontawesome_icon_name                 : star
 
 
 # Theme Settings
