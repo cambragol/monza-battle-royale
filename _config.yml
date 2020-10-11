@@ -64,11 +64,11 @@ features                                  :
 
   - title                                 : The Mystery Machine
     description                           : Scooby Dooby Doo! The last space color landed on becomes a trap, and all other players on that color are moved back two spaces.
-    fontawesome_icon_name                 : link
+    fontawesome_icon_name                 : shuttle-van
 
   - title                                 : Wheels on Meals
     description                           : Jackie's Foodtruck! Every car it goes directly behind, or in front of, is moved back one space
-    fontawesome_icon_name                 : info-circle
+    fontawesome_icon_name                 : truck
 
   - title                                 : Agent Hawk's Mitsubishi
     description                           : It has a mini-bike inside! If it lands behind another player, he moves ahead 3 spaces.
